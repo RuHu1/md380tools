@@ -1,0 +1,6 @@
+The display of my TYT MD380 is upside down after replacing the old display.
+It was broken. After switching on the device, the display was in the display head. 180 degrees twisted.
+So I tested a few things. I flash the Software Version 13.14 and everything is OK. Display orientation OK and normal.
+When I Flash a newer version (13.20 or 13.34) or the md380tools version, the display is back on its head. 
+All displays and functions work normally. 
+Does anyone have an idea here to fix it? 
